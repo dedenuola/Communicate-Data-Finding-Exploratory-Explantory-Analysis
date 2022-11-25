@@ -28,6 +28,5 @@ I will be focusing on four main visualization, two from the Bivariate exploratio
 
 I'll be focusing on the count plot, correlation and regression plots in the Bivariate which expressed a relationship between two variables and their distribution on the basis of gender. I wanted to know if the students performing well in one subject had a positive relationship on another. Then I will assess the Multivariate relationship between the student scores.
 
-I will be sticking to the selected visualizations from the exploratory analysis
 
 
